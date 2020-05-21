@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">helloWorldJFC</string>
     <string name="action_sign_in">Sign In</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
+    <string name="prompt_email">Email - jfc</string>
+    <string name="prompt_password">Password - 123</string>
     <string name="action_sign_in_short">sign in short</string>
 </resources>
